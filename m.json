@@ -1,0 +1,18 @@
+{
+	"whatsappMqtt":[
+		{
+			"MQTT":"hacklab/A1",
+			"CONTACT":"Hacklab Solutions"
+		},
+		{
+			"MQTT":"hacklab/A2",
+			"CONTACT":"Vikramsir(H)"
+		},
+		{
+			"MQTT":"hacklab/A3",
+			"CONTACT":"Pavan Sir"
+		}
+
+	]
+}
+
