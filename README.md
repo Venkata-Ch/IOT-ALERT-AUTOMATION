@@ -1,2 +1,2 @@
 # IOT ALERT AUTOMATION
-Using Slenium
+Using Selenium
