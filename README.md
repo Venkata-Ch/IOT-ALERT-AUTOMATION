@@ -7,7 +7,7 @@ of any industrial hazards protecting human life and valuable assests of the orga
 alerts to their industry montoring devices that suscribed to these channels.
 <html>
   <body>
-    <img scr='./assets/MQTT_protocol.png'width="500" height="600">
+    <img scr='MQTT_protocol.png'width="50" height="30">
   </body>
 </html>
 
