@@ -6,6 +6,8 @@ Working as a continous system script which collects sensor data and monitors sen
 of any industrial hazards protecting human life and valuable assests of the organization by sending immedaite to authorities through channels published and 
 alerts to their industry montoring devices that suscribed to these channels.
 
+<img scr='assets/MQTT_protocol.png'></img>
+
 
 
 
