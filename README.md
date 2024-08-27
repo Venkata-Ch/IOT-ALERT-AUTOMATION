@@ -1,5 +1,5 @@
 # Industrial Safety Alert System
-Built using MQTT protocol, python and Docker.
+Built using MQTT protocol, python and selenium webdriver.
 
 The IOT alert automation system is a project that can be embedded on adruino or NVIDIA JETSON NANO, in the crontab.
 Working as a continous system script which collects sensor data and monitors sensor data continously and alerts the repective authorities
