@@ -7,7 +7,7 @@ of any industrial hazards protecting human life and valuable assests of the orga
 alerts to their industry montoring devices that suscribed to these channels.
 <html>
   <body>
-    <img scr='MQTT_protocol.png'width="50" height="30">
+    ![image](https://github.com/Venkata-Ch/Industrial_Safety_Alert_System/tree/92a4c88c4e7acdd3bcb6cf7459ed92c1527b5263/assets)
   </body>
 </html>
 
