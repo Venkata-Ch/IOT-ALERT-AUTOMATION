@@ -7,9 +7,16 @@ of any industrial hazards protecting human life and valuable assests of the orga
 alerts to their industry montoring devices that suscribed to these channels.
 <html>
   <body>
-         <img src='assets/MQTT_protocol.png' alt='MQTT' width='50' height='50'> <img src='assets/Selenium.png' alt='Selenium' width='50' height='50'>  <img src='assets/python-logo-only.png' alt='Python' width='50' height='50'>
-
-         
+    <div class='row'>
+      <div class='column'>
+         <img src='assets/MQTT_protocol.png' alt='MQTT' width='50' height='50' style='display:block; margin-left: auto; margin-right:auto>
+      </div> 
+      <div class='column'>
+           <img src='assets/Selenium.png' alt='Selenium' width='50' height='50' style='display:block; margin-left: auto; margin-right:auto>
+      </div>
+      <div class='column'>
+       <img src='assets/python-logo-only.png' alt='Python' width='50' height='50' >
+      </div>  
   </body>
 </html>
 
